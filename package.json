@@ -1,0 +1,8 @@
+{
+  "name": "v2",
+  "version": "1.0.0",
+  "description": "Minimal static site with tests",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
