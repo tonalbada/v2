@@ -1,0 +1,13 @@
+# Ignore dependencies directory
+node_modules/
+
+# Ignore test files
+*.test.js
+*.spec.js
+test.js
+__tests__/
+
+# Ignore coverage and build artifacts
+coverage/
+dist/
+*.log
